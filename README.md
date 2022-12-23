@@ -6,4 +6,4 @@ Kenalin, aku Christina STI'21. Repository ini berisi kumpulan file python yang t
 Di repository ini, ada file-file praktikum, tugas, tubes, dll. yang bisa jadi referensi kamu untuk belajar :)
 
 Oh ya, aku juga buat drive akademik yang isinya semua dokumen-dokumen saksi bisu dari perjalananku di ITB ini yang bakal terus di-update seiring bertambahnya semesterku wkwkwk <br/>
-Ini link ke drivenya yaa: (Link menyusul...)
+Ini link ke drivenya yaa: https://bit.ly/DriveAkademikChristina
